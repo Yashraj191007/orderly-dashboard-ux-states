@@ -2,8 +2,7 @@
 
 ## Deployment URL
 
-> _Add your deployment URL here after deploying to Vercel / Netlify / GitHub Pages._  
-> Example: `https://orderly-dashboard-ux-states.vercel.app`
+> 🌐 **Live Deployment:** https://orderly-dashboard-ux-statess.vercel.app/
 
 ---
 
